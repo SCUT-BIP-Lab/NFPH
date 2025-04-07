@@ -22,7 +22,7 @@ SCUT_NFPH_v2
 ✅ Three data types per subject:  
 　▸ Full hand images  
 　▸ Semantic masks  
-　▸ Individual biometric traits (palmprint/vein/etc.)  
+　▸ Individual biometric traits 
 
 ### Request
 
