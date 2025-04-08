@@ -2,8 +2,7 @@
 
 FPHandNet supports multiple mainstream deep feature extraction backbones. In this repository, we specifically provide an open-source implementation using [FasterNet-T1](https://github.com/JierunChen/FasterNet) as an example.
 
-The main ideas and experimental results are detailed in our paper:
-> **"Normalized-Full-Palmar-Hand: Towards More Accurate Hand-Based Multimodal Biometrics."**
+The main ideas and experimental results are detailed in our paper(Under review)
 
 ## Environment
 
