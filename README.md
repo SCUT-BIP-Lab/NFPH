@@ -1,5 +1,5 @@
-# Normalized-Full-Palmar-Hand Multimodal Biometrics Project  
-Official implementation of our paper ​**"Normalized-Full-Palmar-Hand: Towards More Accurate Hand-Based Multimodal Biometrics"**  
+# NFPH Project  
+Official implementation of our paper (under review)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
 SCUT_NFPH_v1
