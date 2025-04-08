@@ -28,7 +28,7 @@ SCUT_NFPH_v2
 
 **SCUT_NFPH_v1** and **SCUT_NFPH_v2** are publicly available (free of charge) to the research community. Unfortunately, due to privacy reasons, we cannot provide the database for commercial use.
 
-Those interested in obtaining the whole database should download the [SCUT_NFPH_v1&v2 Database Release Agreement.docx](./SCUT_NFPH_v1%26v2%20Database%20Release%20Agreement.docx), and send by e-mail one signed and scanned copy to scutbip@outlook.com.
+Those interested in obtaining the whole database should download the [SCUT_NFPH_v1 and v2 Database Release Agreement.docx](./SCUT_NFPH_v1%26v2%20Database%20Release%20Agreement.docx), and send by e-mail one signed and scanned copy to scutbip@outlook.com.
 
 
 
