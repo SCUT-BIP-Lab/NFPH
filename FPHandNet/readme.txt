@@ -1,10 +1,10 @@
 # FPHandNet
 
-## Pretrained Weights
+# Pretrained Weights
 
 The weights of FPHandNet are provided in ONNX format to facilitate inference.
 
-###Inference Code Example：###
+#Inference Code Example：
 
 import numpy as np
 import onnxruntime as ort
@@ -36,13 +36,13 @@ feed_dict = {
 outputs = session.run(None, feed_dict)
 # Passing 'None' fetches data from all output nodes.
 
-# 5. Check the outputs
+ 5. Check the outputs
 print("=================================")
 print("[INFO] Got ONNX model outputs:")
 for i, out in enumerate(outputs):
     print(f"  Output {i} shape = {out.shape}, dtype = {out.dtype}")
 
-Example Console Output：
+#Example Console Output：
 Input 0 - name: input.1, shape: [1, 3, 320, 320], type: tensor(float)
 Input 1 - name: input.121, shape: [1, 3, 320, 320], type: tensor(float)
 =================================
