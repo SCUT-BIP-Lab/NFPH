@@ -31,20 +31,3 @@ SCUT_NFPH_v2
 Those interested in obtaining the whole database should download the SCUT_NFPH_v1 and v2 Database Release Agreement.docx, and send by e-mail one signed and scanned copy to scutbip@outlook.com.
 
 
-
-### Contact
-
-**Yitao Qiao**  
-Biometrics and Intelligence Perception Lab.  
-College of Automation Science and Engineering  
-South China University of Technology  
-Wushan RD., Tianhe District, Guangzhou, P.R.China, 510641  
-(*scutautojoey@gmail.com*)
-
-**Prof. Wenxiong Kang**  
-Biometrics and Intelligence Perception Lab.  
-College of Automation Science and Engineering  
-South China University of Technology  
-Wushan RD., Tianhe District, Guangzhou, P.R.China, 510641  
-(*auwxkang@scut.edu.cn*)
-
