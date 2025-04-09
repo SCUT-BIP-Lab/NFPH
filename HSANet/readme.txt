@@ -7,4 +7,4 @@ https://github.com/PaddlePaddle/PaddleSeg
 
 The method for using the pretrained weights of HSANet can be found in the official PaddleSeg documentation: https://github.com/PaddlePaddle/PaddleSeg/blob/release/2.10/docs/model_export_en.md
 
-If you encounter any issues while using the model weights we provided, please leave an issue.
+Should you encounter any issues when using the provided model weights, please open an issue. We are more than happy to offer our assistance.
