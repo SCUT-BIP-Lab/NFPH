@@ -64,6 +64,7 @@ Output 6 is an overall (integrated) feature vector for the entire hand.
 
 All these features can be combined or used individually based on the specific requirements of your application.
 
+If you encounter any issues while using the model weights we provided, please leave an issue.
 The code for the FPHand network architecture will be made publicly available promptly upon acceptance.
 
 
