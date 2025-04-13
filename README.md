@@ -12,8 +12,8 @@ SCUT_NFPH_v2
 
 
 ## 📦 Components
-- 🖐️ HSANet (Hand Segmentation Network)
-- 🔒 FPHandNet (Multi-modal Authentication Framework)
+- 🖐️ HSANet (Hand Segmentation and Alignment Network)
+- 🔒 FPHandNet (Hand Multimodal Authentication Framework)
 - 📊 SCUT NFPH v1/v2 Databases
 
 ## 📚 SCUT Normalized-Full-Palmar-Hand Databases
